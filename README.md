@@ -1,2 +1,18 @@
-# naanmudhalvan-tuesday-batch-project-file
-building bus reservation system by using pyton and django - Manoj
+FOR GITHUB README FILE:
+
+
+PROJECT CREATED BY:
+
+NAME: MANOJ E
+
+REGISTER NO: 511321104053
+
+COLLEGE CODE: 5113
+
+COLLEGE NAME:KINGSTON ENGINEERING COLLEGE
+
+LOGIN DETAILS:
+
+USERNAME: ADMIN
+
+PASSWORD: ADMIN
